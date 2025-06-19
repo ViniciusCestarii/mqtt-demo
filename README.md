@@ -2,6 +2,13 @@
 
 This project demonstrates a full-stack application for collecting, storing, and visualizing temperature sensor data using MQTT, PostgreSQL, and Next.js.
 
+<div align="center">
+   
+![image](https://github.com/user-attachments/assets/d9914b7d-d2df-4850-9f2d-357c5b3fe4f0)
+
+</div>
+
+
 ## Project Structure
 
 ```
