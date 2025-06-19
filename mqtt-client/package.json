@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-client-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/mqtt-client.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mqtt": "^5.13.1",
+    "pg": "^8.16.2",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.15.4",
+    "typescript": "^5"
+  }
+}
