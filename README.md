@@ -23,7 +23,7 @@ mqtt-demo/
 
 Located in [`mqtt-client/`](mqtt-client/):
 
-- Connects to an MQTT broker (default: `mqtt://test.mosquitto.org`)
+- Connects to an MQTT broker
 - Listens for messages on the `temperature-sensor/#` topic
 - Parses temperature readings and inserts them into a PostgreSQL database
 
